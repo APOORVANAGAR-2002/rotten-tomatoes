@@ -1,0 +1,17 @@
+.star {
+    position: relative;
+    display: inline-block;
+    font-size: 1.5rem;
+    color: #d3d3d3;
+    font-family: 'OpenSans', sans-serif;
+
+  }
+  .full {
+    color: red;
+  }
+  .half {
+    position: absolute;
+    display: inline-block;
+    overflow: hidden;
+    color: red;
+}
